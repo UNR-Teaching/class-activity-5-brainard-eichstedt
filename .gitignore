@@ -134,3 +134,9 @@ dmypy.json
 
 # pytype static type analyzer
 .pytype/
+
+# Goat Ignores
+db.sqlite3
+
+# IDE
+.vscode/
